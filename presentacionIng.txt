@@ -1,0 +1,8 @@
+virtual reality is a computer enviroment generated with scenes and objets that appear to be real,
+making the user feel they are inmersed in their surroundings.
+this enviroment is perceived through a device known as a Virtual reality headset o helmet
+
+
+How it works:
+The user provides input to the system by making movementes in physical 3d space or manipulating tools,
+sensors, or devices in 3d space without regard for what this input is used to do or control
